@@ -10,7 +10,7 @@ The Figure below shows the improvements brought by Graph-OMO and Attention Aggre
 
 Task visualization:  
 > Two green dots in the gif below are the inferred result of OMO  
-> Yellow skeleton is the ground truth
+> Yellow skeleton is the ground truth  
 ![image](https://github.com/Hongboooooo/Graph-OMO/blob/main/omo-himo.gif)
 
 Reference:  
