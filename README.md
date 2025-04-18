@@ -3,8 +3,8 @@ Introduce Graph Convolution Network to OMOMO's 1st stage network[1] to make it p
 We use himo dataset[2] for hands manipulation sequence generation of multiple objects
 The detailed explanation of Graph-OMO can be seen in this ![report]()
 The architecture of Graph-OMO: 
->  ![image]()
-Reference:
+>  ![image](https://github.com/Hongboooooo/Graph-OMO/blob/main/GOMO_Pipeline.png)  
+Reference:  
 > [1] https://github.com/lijiaman/omomo_release  
 > [2] https://github.com/LvXinTao/HIMO_dataset
 
