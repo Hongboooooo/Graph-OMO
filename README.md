@@ -6,7 +6,7 @@ The architecture of Graph-OMO:
 >  ![image](https://github.com/Hongboooooo/Graph-OMO/blob/main/GOMO_Pipeline.png)
 
 The Figure below shows the improvements brought by Graph-OMO and Attention Aggregation:  
->  ![image]()
+>  ![image](https://github.com/Hongboooooo/Graph-OMO/blob/main/Graph-OMO_Curves_3.png)
 
 Reference:  
 > [1] https://github.com/lijiaman/omomo_release  
