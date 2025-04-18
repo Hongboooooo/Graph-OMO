@@ -11,7 +11,7 @@ The Figure below shows the improvements brought by Graph-OMO and Attention Aggre
 Visual example:
 > Two green dots in the gif below are the inferred result of OMO  
 > Yellow skeleton is the ground truth
-![image](https://github.com/Hongboooooo/OMO-HIMO/blob/main/omo-himo.gif)
+![image](https://github.com/Hongboooooo/Graph-OMO/blob/main/omo-himo.gif)
 
 Reference:  
 > [1] https://github.com/lijiaman/omomo_release  
